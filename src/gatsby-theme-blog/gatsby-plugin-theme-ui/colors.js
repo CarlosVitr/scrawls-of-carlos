@@ -9,7 +9,7 @@ import defaultThemeColors from "gatsby-theme-blog/src/gatsby-plugin-theme-ui/col
 
 // const darkBlue = `#007acc`
 // const lightBlue = `#66E0FF`
-// const blueGray = `#282c35`
+// const blueGray = `#120a8f`
 
 export default merge(defaultThemeColors, {
   // text: blueGray,
