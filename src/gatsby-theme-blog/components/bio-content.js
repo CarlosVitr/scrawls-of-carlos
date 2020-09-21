@@ -9,7 +9,7 @@ export default () => (
   <Fragment>
     I'm <Styled.a href="http://twitter.com/ClsVitor"> Carlos </Styled.a>
     {` `}
-    goes.
+    Developer.
     <br />
     Welcome to my blog totally made in gatsby js.
   </Fragment>
