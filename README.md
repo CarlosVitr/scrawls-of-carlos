@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
 </p>
 <h1 align="center">
   Starter for the official Gatsby blog theme
@@ -17,7 +14,7 @@ Quickly get started using the Gatsby blog theme! This starter creates a new Gats
 
     ```shell
     # create a new Gatsby site using the blog theme starter
-    gatsby new my-themed-blog https://github.com/gatsbyjs/gatsby-starter-blog-theme
+    gatsby new my-inicial-blog https://github.com/CarlosVitr/blog-carlos-gatsby.git
     ```
 
 2.  **Start developing.**
@@ -25,7 +22,7 @@ Quickly get started using the Gatsby blog theme! This starter creates a new Gats
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-themed-blog/
+    cd my-inicial-blog/
     gatsby develop
     ```
 
