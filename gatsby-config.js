@@ -7,17 +7,21 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Scrawls of Carlos `,
+    author: `Carlos Vitor`,
+    description: `My First blog`,
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        name: `Twitter`,
+        url: `https://twitter.com/ClsVitor`,
       },
       {
-        name: `youtube`,
-        url: `https://www.youtube.com/watch?v=8L4IMoQwLIg`,
+        name: `Github`,
+        url: `https://github.com/carlosvitr`,
+      },
+       {
+        name: `Gmail`,
+        url: `mailto:contatos.carlosv@gmail.com`,
       },
     ],
   },
