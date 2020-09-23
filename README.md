@@ -1,9 +1,11 @@
 <p align="center">
 </p>
 <h1 align="center">
-  Starter for the official Gatsby blog theme
+      Welcome to my blog with an initial theme made with Gatsby.js
 </h1>
 
+<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  
 Quickly get started using the Gatsby blog theme! This starter creates a new Gatsby site that is preconfigured to work with the [official Gatsby blog theme](https://www.npmjs.com/package/gatsby-theme-blog).
 
 ## 🚀 Quick start
@@ -14,7 +16,7 @@ Quickly get started using the Gatsby blog theme! This starter creates a new Gats
 
     ```shell
     # create a new Gatsby site using the blog theme starter
-    gatsby new my-inicial-blog https://github.com/CarlosVitr/blog-carlos-gatsby.git
+    gatsby new my-inicial-blog https://github.com/CarlosVitr/scrawls-of-carlos.git
     ```
 
 2.  **Start developing.**
