@@ -10,6 +10,7 @@ module.exports = {
     title: `Scrawls of Carlos `,
     author: `Carlos Vitor`,
     description: `My First blog`,
+    footer:`© 2018-2020 Carlos Developer. All rights reserved.`, 
     social: [
       {
         name: `Twitter`,
